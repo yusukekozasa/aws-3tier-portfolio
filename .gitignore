@@ -1,0 +1,11 @@
+# Terraformのキャッシュ・状態管理ファイル（機密情報を含むためNG）
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# 機密情報・認証情報ファイル
+*.tfvars
+*.csv
+
+# Mac OSのシステムファイル
+.DS_Store

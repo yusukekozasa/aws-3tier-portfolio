@@ -1,0 +1,2 @@
+# terraform.tfvars.example（GitHubに公開されるサンプルファイル）
+db_password = "YourSecurePassword123!"
