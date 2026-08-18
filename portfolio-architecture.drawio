@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="OILKy480yMwVKpItiZlx">
-    <mxGraphModel dx="1584" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,9 +43,9 @@
         <mxCell id="ZFHetK91Q-HBrn6VwcX8-26" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=light-dark(#232F3E,#000000);fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start; white-space: normal;&quot;&gt;RDS (Standby)&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="255" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="ZFHetK91Q-HBrn6VwcX8-30" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);" target="ZFHetK91Q-HBrn6VwcX8-23" value="">
+        <mxCell id="ZFHetK91Q-HBrn6VwcX8-30" edge="1" parent="1" source="ZFHetK91Q-HBrn6VwcX8-10" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);exitX=1;exitY=0.646;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZFHetK91Q-HBrn6VwcX8-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="84.4" y="220.71" as="sourcePoint" />
+            <mxPoint x="50" y="188.03" as="sourcePoint" />
             <mxPoint x="54.46999999999971" y="350.71000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -54,9 +54,9 @@
             <mxPoint x="43" y="-90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFHetK91Q-HBrn6VwcX8-31" edge="1" parent="1" source="ZFHetK91Q-HBrn6VwcX8-6" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="ZFHetK91Q-HBrn6VwcX8-24" value="">
+        <mxCell id="ZFHetK91Q-HBrn6VwcX8-31" edge="1" parent="1" source="ZFHetK91Q-HBrn6VwcX8-17" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#CC0000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.646;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZFHetK91Q-HBrn6VwcX8-24" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="130" y="220" as="sourcePoint" />
             <mxPoint x="160" y="435.28999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
